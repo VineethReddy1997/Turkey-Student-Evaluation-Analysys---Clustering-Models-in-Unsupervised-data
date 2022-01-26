@@ -63,3 +63,4 @@ Q1-Q28 are all Likert-type, meaning that the values are taken from {1,2,3,4,5}
 <li>Principal Component Analysis
 <li>Kmeans Clustering
 <li>Agglomerative Clustering
+ <li>Hierarchical Clustering
